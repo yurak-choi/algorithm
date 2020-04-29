@@ -12,3 +12,4 @@
 * [백준_11724](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ11724.java) : 연결 요소의 개수 (알고리즘 : DFS)
 * [백준_1743](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ1743.java) : 음식물 피하기 (알고리즘 : DFS)
 * [백준_1780](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ1780.java) : 종이의 개수 (알고리즘 : 분할 정복)
+* [백준_1260](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ1260.java) : DFS와 BFS (알고리즘 : DFS, BFS)
