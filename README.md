@@ -1,5 +1,9 @@
 # 알고리즘 공부
-알고리즘 문제 풀기
+알고리즘 문제를 푼 코드를 모아둔 Repository 입니다.
+주로 백준 온라인 저지 사이트의 문제를 풀고 주사용 언어는 Java 입니다.
+
+## 알고리즘 참고 사이트
+* 라이(kks227)님의 블로그 : <http://blog.naver.com/kks227/220769859177>
 
 ## 백준 온라인 저지
 * [백준_1002](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ1002.java) : 터렛 (알고리즘 : 기하)
@@ -13,3 +17,4 @@
 * [백준_1743](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ1743.java) : 음식물 피하기 (알고리즘 : DFS)
 * [백준_1780](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ1780.java) : 종이의 개수 (알고리즘 : 분할 정복)
 * [백준_1260](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ1260.java) : DFS와 BFS (알고리즘 : DFS, BFS)
+* [백준_9012](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ9012.java) : 괄호 (알고리즘 : 스택)
