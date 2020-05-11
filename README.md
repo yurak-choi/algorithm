@@ -18,3 +18,4 @@
 * [백준_1780](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ1780.java) : 종이의 개수 (알고리즘 : 분할 정복)
 * [백준_1260](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ1260.java) : DFS와 BFS (알고리즘 : DFS, BFS)
 * [백준_9012](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ9012.java) : 괄호 (알고리즘 : 스택)
+* [백준_2644](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ2644.java) : 촌수계산 (알고리즘 : BFS)
