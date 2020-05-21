@@ -22,3 +22,4 @@
 * [백준_2178](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ2178.java) : 미로 탐색 (알고리즘 : BFS)
 * [백준_1904](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ1904.java) : 01타일 (알고리즘 : DP)
 * [백준_11057](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ11057.java) : 오르막 수 (알고리즘 : DP)
+* [백준_4796](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ4796.java) : 캠핑 (알고리즘 : Greedy)
