@@ -24,3 +24,4 @@
 * [백준_11057](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ11057.java) : 오르막 수 (알고리즘 : DP)
 * [백준_4796](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ4796.java) : 캠핑 (알고리즘 : Greedy)
 * [백준_2212](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ2212.java) : 센서 (알고리즘 : Greedy)
+* [백준_2503](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ2503.java) : 숫자 야구 (알고리즘 : Brute Force)
