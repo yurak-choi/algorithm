@@ -25,3 +25,4 @@
 * [백준_4796](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ4796.java) : 캠핑 (알고리즘 : Greedy)
 * [백준_2212](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ2212.java) : 센서 (알고리즘 : Greedy)
 * [백준_2503](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ2503.java) : 숫자 야구 (알고리즘 : Brute Force)
+* [백준_6236](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ6236.java) : 용돈 관리 (알고리즘 : 이분 탐색)
