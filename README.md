@@ -27,3 +27,4 @@
 * [백준_2503](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ2503.java) : 숫자 야구 (알고리즘 : Brute Force)
 * [백준_6236](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ6236.java) : 용돈 관리 (알고리즘 : 이분 탐색)
 * [백준_2512](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ2512.java) : 예산 (알고리즘 : 이분 탐색)
+* [백준_5397](https://github.com/yurak-choi/algorithm/blob/master/boj/BOJ5397.java) : 키로거 (알고리즘 : 링크드 리스트)
