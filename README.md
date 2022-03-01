@@ -1,9 +1,12 @@
 # 알고리즘 공부
 알고리즘 문제를 푼 코드를 모아둔 Repository 입니다.  
 주로 백준 온라인 저지 사이트의 문제를 풀고 주사용 언어는 JavaScript 입니다. (기존 Java에서 JavaScript로 변경)
-
+  
 ## 알고리즘 참고 사이트
 * 라이(kks227)님의 블로그 : <http://blog.naver.com/kks227/220769859177>
+  
+## JavaScript
+* [백준_4673](https://github.com/yurak-choi/algorithm/blob/master/javascript/BOJ4673.js) : 셀프 넘버 (알고리즘 : Brute Force)
   
 ## Java
 * [백준_1002](https://github.com/yurak-choi/algorithm/blob/master/java/BOJ1002.java) : 터렛 (알고리즘 : 기하)
