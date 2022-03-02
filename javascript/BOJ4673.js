@@ -1,3 +1,5 @@
+// https://www.acmicpc.net/problem/4673
+
 const N = 10001;
 const selfNumberArray = new Array(N);
 
