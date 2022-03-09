@@ -6,6 +6,7 @@
 * 라이(kks227)님의 블로그 : <http://blog.naver.com/kks227/220769859177>
   
 ## JavaScript
+* [백준_2573](https://github.com/yurak-choi/algorithm/blob/master/javascript/BOJ2573.js) : 빙산 (알고리즘 : DFS)
 * [백준_4673](https://github.com/yurak-choi/algorithm/blob/master/javascript/BOJ4673.js) : 셀프 넘버 (알고리즘 : Brute Force)
 * [백준_4949](https://github.com/yurak-choi/algorithm/blob/master/javascript/BOJ4949.js) : 균형잡힌 세상 (알고리즘 : 스택)
   
