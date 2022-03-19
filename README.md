@@ -11,6 +11,7 @@
 * [백준_4673](https://github.com/yurak-choi/algorithm/blob/master/javascript/BOJ4673.js) : 셀프 넘버 (알고리즘 : Brute Force)
 * [백준_4949](https://github.com/yurak-choi/algorithm/blob/master/javascript/BOJ4949.js) : 균형잡힌 세상 (알고리즘 : 스택)
 * [백준_5585](https://github.com/yurak-choi/algorithm/blob/master/javascript/BOJ5585.js) : 거스름돈 (알고리즘 : Greedy)
+* [백준_6597](https://github.com/yurak-choi/algorithm/blob/master/javascript/BOJ6597.js) : 트리 복구 (알고리즘 : 분할 정복)
   
 ## Java
 * [백준_1002](https://github.com/yurak-choi/algorithm/blob/master/java/BOJ1002.java) : 터렛 (알고리즘 : 기하)
