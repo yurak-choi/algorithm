@@ -14,6 +14,7 @@
 * [백준_5585](https://github.com/yurak-choi/algorithm/blob/master/javascript/BOJ5585.js) : 거스름돈 (알고리즘 : Greedy)
 * [백준_6597](https://github.com/yurak-choi/algorithm/blob/master/javascript/BOJ6597.js) : 트리 복구 (알고리즘 : 분할 정복)
 * [프로그래머스_150370](https://github.com/yurak-choi/algorithm/blob/master/javascript/P150370.js) : 개인정보 수집 유효기간
+* [프로그래머스_92334](https://github.com/yurak-choi/algorithm/blob/master/javascript/P92334.js) : 신고 결과 받기
   
 ## Java
 * [백준_1002](https://github.com/yurak-choi/algorithm/blob/master/java/BOJ1002.java) : 터렛 (알고리즘 : 기하)
