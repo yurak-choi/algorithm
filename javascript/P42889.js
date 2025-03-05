@@ -1,3 +1,5 @@
+// https://school.programmers.co.kr/learn/courses/30/lessons/42889
+
 function solution(N, stages) {
     const lastStageMap = new Map()
     stages.forEach(stage => {
