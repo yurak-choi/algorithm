@@ -16,6 +16,8 @@
 * [프로그래머스_150370](https://github.com/yurak-choi/algorithm/blob/master/javascript/P150370.js) : 개인정보 수집 유효기간
 * [프로그래머스_92334](https://github.com/yurak-choi/algorithm/blob/master/javascript/P92334.js) : 신고 결과 받기
 * [프로그래머스_42889](https://github.com/yurak-choi/algorithm/blob/master/javascript/P42889.js) : 실패율
+* [프로그래머스_17681](https://github.com/yurak-choi/algorithm/blob/master/javascript/P17681.js) : [1차] 비밀지도
+
   
 ## Java
 * [백준_1002](https://github.com/yurak-choi/algorithm/blob/master/java/BOJ1002.java) : 터렛 (알고리즘 : 기하)
