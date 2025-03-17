@@ -18,6 +18,7 @@
 * [프로그래머스_42889](https://github.com/yurak-choi/algorithm/blob/master/javascript/P42889.js) : 실패율
 * [프로그래머스_17681](https://github.com/yurak-choi/algorithm/blob/master/javascript/P17681.js) : [1차] 비밀지도
 * [프로그래머스_67256](https://github.com/yurak-choi/algorithm/blob/master/javascript/P67256.js) : 키패드 누르기
+* [프로그래머스_118666](https://github.com/yurak-choi/algorithm/blob/master/javascript/P118666.js) : 성격 유형 검사하기
 
   
 ## Java
