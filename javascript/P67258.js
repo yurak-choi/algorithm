@@ -1,6 +1,6 @@
 // https://school.programmers.co.kr/learn/courses/30/lessons/67258
 
-// 효율성 테스트 실패...
+// 1차 답안: 효율성 테스트 실패...
 function solution(gems) {
     const gemsSet = new Set(gems)
     let l = 1
@@ -21,6 +21,34 @@ function solution(gems) {
         }
         
         if (nowDiff === gemsSet.size - 1) break
+    }
+    
+    return result;
+}
+
+// 2차 답안
+function solution(gems) {
+    const gemsSortCount = new Set(gems).size
+    const gemsMap = new Map([[gems[0], 1]])
+
+    let l = 1
+    let r = 1
+    let result = [1, gems.length]
+    
+    while (r <= gems.length) {
+        if (gemsMap.size < gemsSortCount) {
+            gemsMap.set(gems[r], (gemsMap.get(gems[r++]) || 0) + 1)
+            continue
+        }
+        
+        const nowL = l++
+        if (r - nowL < result[1] - result[0]) result = [nowL, r]
+        
+        if (r - nowL === gemsSortCount - 1) break
+        
+        const gemCount = gemsMap.get(gems[nowL - 1])
+        if (gemCount <= 1) gemsMap.delete(gems[nowL - 1])
+        else gemsMap.set(gems[nowL - 1], gemCount - 1)
     }
     
     return result;
