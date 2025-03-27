@@ -20,6 +20,7 @@
 * [프로그래머스_67256](https://github.com/yurak-choi/algorithm/blob/master/javascript/P67256.js) : 키패드 누르기
 * [프로그래머스_118666](https://github.com/yurak-choi/algorithm/blob/master/javascript/P118666.js) : 성격 유형 검사하기
 * [프로그래머스_67258](https://github.com/yurak-choi/algorithm/blob/master/javascript/P67258.js) : 보석 쇼핑
+* [프로그래머스_17682](https://github.com/yurak-choi/algorithm/blob/master/javascript/P17682.js) : [1차] 다트 게임
 
   
 ## Java
