@@ -25,6 +25,7 @@
 * [프로그래머스_140108](https://github.com/yurak-choi/algorithm/blob/master/javascript/P140108.js) : 문자열 나누기
 * [프로그래머스_389479](https://github.com/yurak-choi/algorithm/blob/master/javascript/P389479.js) : 서버 증설 횟수
 * [프로그래머스_138476](https://github.com/yurak-choi/algorithm/blob/master/javascript/P138476.js) : 귤 고르기
+* [프로그래머스_92341](https://github.com/yurak-choi/algorithm/blob/master/javascript/P92341.js) : 주차 요금 계산
 
   
 ## Java
