@@ -1,47 +1,36 @@
 // https://school.programmers.co.kr/learn/courses/30/lessons/258712
 
 function solution(friends, gifts) {
-    const defaultMapObj = Object.fromEntries(friends.map(f => [f, 0]))
-    const giftMap = new Map(friends.map(f => [f, {
-        index: 0,
-        ...defaultMapObj
-    }]))
+    const friendIndex = {}
+    const giftHistory = []
+    const giftIndex = Array(friends.length).fill(0)
+    
+    friends.forEach((friend, i) => {
+        giftHistory[i] = Array(friends.length).fill(0)
+        friendIndex[friend] = i
+    })
     
     gifts.forEach(gift => {
         const [sender, reciever] = gift.split(' ')
         
-        const senderItem = giftMap.get(sender)
-        const recieverItem = giftMap.get(reciever)
-        
-        giftMap.set(sender, {
-            ...senderItem,
-            [reciever]: senderItem[reciever] + 1,
-            index: senderItem.index + 1
-        })
-        
-        giftMap.set(reciever, {
-            ...recieverItem,
-            [sender]: recieverItem[sender] - 1,
-            index: recieverItem.index - 1
-        })
+        giftHistory[friendIndex[sender]][friendIndex[reciever]] += 1
+        giftIndex[friendIndex[sender]] += 1
+        giftIndex[friendIndex[reciever]] -= 1
     })
     
     let result = 0
-    friends.forEach(f => {
-        const outerItem = giftMap.get(f)
+    for (let i = 0; i < friends.length; i++) {
         let count = 0
         
-        friends.forEach(f2 => {
-            if (f === f2) return
-    
-            const innerItem = giftMap.get(f2)
-            if (outerItem[f2] > 0 || (outerItem[f2] === 0 && outerItem.index > innerItem.index)) {
-                count++
-            }
-        })
-
+        for (let j = 0; j < friends.length; j++) {
+            if (i === j) continue
+            
+            if (giftHistory[i][j] > giftHistory[j][i]) count++
+            else if (giftHistory[i][j] === giftHistory[j][i] && giftIndex[i] > giftIndex[j]) count++
+        }
+        
         if (count > result) result = count
-    });
+    }
     
     return result
 }
