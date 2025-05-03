@@ -32,6 +32,7 @@
 * [프로그래머스_72410](https://github.com/yurak-choi/algorithm/blob/master/javascript/P72410.js) : 신규 아이디 추천
 * [프로그래머스_17680](https://github.com/yurak-choi/algorithm/blob/master/javascript/P17680.js) : [1차] 캐시
 * [프로그래머스_64061](https://github.com/yurak-choi/algorithm/blob/master/javascript/P64061.js) : 크레인 인형뽑기 게임
+* [프로그래머스_64065](https://github.com/yurak-choi/algorithm/blob/master/javascript/P64065.js) : 튜플
 
   
 ## Java
