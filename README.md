@@ -34,6 +34,7 @@
 * [프로그래머스_64061](https://github.com/yurak-choi/algorithm/blob/master/javascript/P64061.js) : 크레인 인형뽑기 게임
 * [프로그래머스_64065](https://github.com/yurak-choi/algorithm/blob/master/javascript/P64065.js) : 튜플
 * [프로그래머스_17677](https://github.com/yurak-choi/algorithm/blob/master/javascript/P17677.js) : [1차] 뉴스 클러스터링
+* [프로그래머스_17687](https://github.com/yurak-choi/algorithm/blob/master/javascript/P17687.js) : [3차] n진수 게임
 
   
 ## Java
