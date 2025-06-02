@@ -37,6 +37,7 @@
 * [프로그래머스_17687](https://github.com/yurak-choi/algorithm/blob/master/javascript/P17687.js) : [3차] n진수 게임
 * [프로그래머스_92335](https://github.com/yurak-choi/algorithm/blob/master/javascript/P92335.js) : k진수에서 소수 개수 구하기
 * [프로그래머스_17684](https://github.com/yurak-choi/algorithm/blob/master/javascript/P17684.js) : [3차] 압축
+* [프로그래머스_17686](https://github.com/yurak-choi/algorithm/blob/master/javascript/P17686.js) : [3차] 파일명 정렬
 
   
 ## Java
