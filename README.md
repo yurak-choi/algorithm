@@ -42,6 +42,7 @@
 * [프로그래머스_17679](https://github.com/yurak-choi/algorithm/blob/master/javascript/P17679.js) : [1차] 프렌즈4블록
 * [프로그래머스_118667](https://github.com/yurak-choi/algorithm/blob/master/javascript/P118667.js) : 두 큐 합 같게 만들기
 * [프로그래머스_17683](https://github.com/yurak-choi/algorithm/blob/master/javascript/P17683.js) : [3차] 방금그곡
+* [프로그래머스_60058](https://github.com/yurak-choi/algorithm/blob/master/javascript/P60058.js) : 괄호 변환
 
   
 ## Java
