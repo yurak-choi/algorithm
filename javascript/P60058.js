@@ -3,29 +3,19 @@
 function splitString(p) {
     let count = 0
     let i = 0
+    let valid = true
     for (; i < p.length; i++) {
         if (p[i] === '(') count++
         else count--
         
+        if (count < 0) valid = false
         if (count === 0) break
     }
-    return [p.slice(0, i + 1), p.slice(i + 1)]
+    return [p.slice(0, i + 1), p.slice(i + 1), valid]
 }
 
-function checkValid(u) {
-    let count = 0
-    for (let i = 0; i < u.length; i++) {
-        if (u[i] === '(') count++
-        else count--
-        
-        if (count < 0) return false
-    }
-    
-    return true
-}
-
-function makeValid(u, v) {
-    if (checkValid(u)) return u + v
+function makeValid(u, v, valid) {
+    if (valid) return u + v
     
     let convert = ''
     for (let i = 1; i < u.length - 1; i++) {
@@ -37,7 +27,7 @@ function makeValid(u, v) {
 }
 
 function solution(p) {
-    const [u, v] = splitString(p)
+    const [u, v, valid] = splitString(p)
     
-    return makeValid(u, v.length === 0 ? '' : solution(v))
+    return makeValid(u, v.length === 0 ? '' : solution(v), valid)
 }
