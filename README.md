@@ -43,6 +43,7 @@
 * [프로그래머스_118667](https://github.com/yurak-choi/algorithm/blob/master/javascript/P118667.js) : 두 큐 합 같게 만들기
 * [프로그래머스_17683](https://github.com/yurak-choi/algorithm/blob/master/javascript/P17683.js) : [3차] 방금그곡
 * [프로그래머스_60058](https://github.com/yurak-choi/algorithm/blob/master/javascript/P60058.js) : 괄호 변환
+* [프로그래머스_67257](https://github.com/yurak-choi/algorithm/blob/master/javascript/P67257.js) : 수식 최대화
 
   
 ## Java
