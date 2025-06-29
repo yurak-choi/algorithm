@@ -44,6 +44,7 @@
 * [프로그래머스_17683](https://github.com/yurak-choi/algorithm/blob/master/javascript/P17683.js) : [3차] 방금그곡
 * [프로그래머스_60058](https://github.com/yurak-choi/algorithm/blob/master/javascript/P60058.js) : 괄호 변환
 * [프로그래머스_67257](https://github.com/yurak-choi/algorithm/blob/master/javascript/P67257.js) : 수식 최대화
+* [프로그래머스_81302](https://github.com/yurak-choi/algorithm/blob/master/javascript/P81302.js) : 거리두기 확인하기
 
   
 ## Java
