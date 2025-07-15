@@ -46,6 +46,7 @@
 * [프로그래머스_67257](https://github.com/yurak-choi/algorithm/blob/master/javascript/P67257.js) : 수식 최대화
 * [프로그래머스_81302](https://github.com/yurak-choi/algorithm/blob/master/javascript/P81302.js) : 거리두기 확인하기
 * [프로그래머스_60057](https://github.com/yurak-choi/algorithm/blob/master/javascript/P60057.js) : 문자열 압축
+* [프로그래머스_42890](https://github.com/yurak-choi/algorithm/blob/master/javascript/P42890.js) : 후보키
 
   
 ## Java
