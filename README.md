@@ -47,6 +47,7 @@
 * [프로그래머스_81302](https://github.com/yurak-choi/algorithm/blob/master/javascript/P81302.js) : 거리두기 확인하기
 * [프로그래머스_60057](https://github.com/yurak-choi/algorithm/blob/master/javascript/P60057.js) : 문자열 압축
 * [프로그래머스_42890](https://github.com/yurak-choi/algorithm/blob/master/javascript/P42890.js) : 후보키
+* [프로그래머스_388352](https://github.com/yurak-choi/algorithm/blob/master/javascript/P388352.js) : 비밀 코드 해독
 
   
 ## Java
