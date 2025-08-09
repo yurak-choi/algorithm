@@ -1,12 +1,12 @@
 // https://school.programmers.co.kr/learn/courses/30/lessons/42890
 
-function getCombination(arr, k) {
+function getCombination(arr, k, index) {
     if (k === 0) return [[]]
   
     const result = []
     
-    for (let i = 0; i <= arr.length - k; i++) {
-        const tailCombs = getCombination(arr.slice(i + 1), k - 1)
+    for (let i = index; i <= arr.length - k; i++) {
+        const tailCombs = getCombination(arr, k - 1, i + 1)
         tailCombs.forEach(comb => result.push([arr[i], ...comb]))
     }
     return result
@@ -19,7 +19,7 @@ function solution(relation) {
     let k = 1
 
     while (k <= relation[0].length) {
-        const combs = getCombination(indexArr, k++)
+        const combs = getCombination(indexArr, k++, 0)
         const filteredCombs = combs.filter((comb) => {
             return !excludes.some((item) => item.every((element) => comb.includes(element)))
         })
